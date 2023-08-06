@@ -1,0 +1,59 @@
+/* Global styles */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+/* Hero banner styles */
+.hero-banner {
+  background-color: #f8f8f8;
+  text-align: center;
+  padding: 100px 0;
+}
+
+.hero-content h1 {
+  font-size: 36px;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.hero-content p {
+  font-size: 18px;
+  color: #666;
+}
+
+/* Content section styles */
+.content-section {
+  background-color: #fff;
+  padding: 50px 0;
+}
+
+.content {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.content h2 {
+  font-size: 28px;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.content p {
+  font-size: 16px;
+  color: #666;
+  line-height: 1.6;
+}
+
+.content img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin-top: 20px;
+}
+.product {
+  height:50px;
+  width:500px;
+}
+
